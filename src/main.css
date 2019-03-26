@@ -1,0 +1,7 @@
+@import './font.css';
+
+body {
+    background: red;
+    transform: rotate(45deg);
+    background-image: url('./image4.jpg');
+}
